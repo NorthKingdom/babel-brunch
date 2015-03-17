@@ -3,7 +3,7 @@ babel-brunch
 Brunch plugin using [babel](https://github.com/babel/babel) to turn ES6 code
 into vanilla ES5 with no runtime required.
 
-All the `.js` files in your project will be run through the babel compiler,
+All the `.es6` files in your project will be run through the babel compiler,
 except those it is configured to ignore.
 
 Installation
